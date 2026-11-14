@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: If you use this fork, please cite it using these metadata and identify the
+  commit or release used. Upstream attribution is recorded in references.
+title: DJM Rec for Android
+authors:
+- family-names: P2GR
+- name: DJM Rec for Android contributors
+repository-code: https://github.com/edithatogo/DJM-Rec-for-Android
+url: https://github.com/edithatogo/DJM-Rec-for-Android
+references:
+- type: software
+  title: DJM Rec for Android
+  authors:
+  - family-names: P2GR
+  - name: DJM Rec for Android contributors
+  repository-code: https://github.com/P2GR/DJM-Rec-for-Android
+  url: https://github.com/P2GR/DJM-Rec-for-Android
